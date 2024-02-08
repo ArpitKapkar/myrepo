@@ -45,7 +45,20 @@ int main(int argc,char *argv[])
 	{
 		args[i]=argv[j];
 	}
-	args[i]=(char*)0;
+	args[i]=(char*)0; 
+
+
+
+
+
+ggggggggggggggggggggggggggggggggggggggg
+jjjjjjjjjjjjjjjjjjjjjjjjj
+
+
+
+
+
+
 	
 	for(l=0,i=1;i<=n;i++,l++)
 	{
